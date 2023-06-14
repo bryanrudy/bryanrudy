@@ -1,9 +1,9 @@
 ## 💫 About Me:
-👋 Hi, I'm @bryanrudy<br>👀 I'm interested in strategic marketing, digital application development, leveraging data insights, and driving business growth.<br>🌱 I'm currently learning about emerging marketing technologies, advanced data analytics, and staying updated with industry trends.<br>💞️ I'm looking to collaborate on marketing campaigns, customer experience optimization, innovative digital projects, and strategic partnerships.
+👋 Hi, I'm @bryanrudy<br>👀 I'm interested in strategic marketing, digital application development, leveraging data insights, and driving business growth.<br>🌱 I'm currently learning about emerging marketing technologies, advanced data analytics, and staying updated with industry trends.<br>💞️ I'm looking to collaborate on marketing campaigns, customer experience optimization, innovative digital projects, and strategic partnerships.<br>🚀 Highly accomplished marketing professional with a strong track record of delivering exceptional results and maximizing organizational success.<br>📈 Proven expertise in developing and executing comprehensive marketing strategies.<br>👥 Experienced in managing cross-functional teams and optimizing campaign performance.<br>💻 Specialized in digital application development and maintenance, transforming customer experiences and leveraging real-time data insights.<br>💡 Adept at driving innovation, fostering strategic partnerships, and staying ahead of industry trends.
 
 
 ## 🌐 Socials & Resume(CV):
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-gonzales-074b75180/) [![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=resume&logoColor=white)](https://www.mediafire.com/file/ynpoi93yv3murej/BryanGonzales-Resume%2528CV%2529.docx/file)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-gonzales-074b75180/) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:Bryanrudy@outlook.com) [![Resume](https://img.shields.io/badge/Resume(CV)-%2312100E.svg?logo=resume&logoColor=white)](https://www.mediafire.com/file/ynpoi93yv3murej/BryanGonzales-Resume%2528CV%2529.docx/file) 
 
 
 ## 💻 Tech Stack:
