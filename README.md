@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials & Resume(CV):
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-gonzales-074b75180/) [![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=resume&logoColor=white)](https://www.mediafire.com/file/ynpoi93yv3murej/BryanGonzales-Resume(CV).docx/file)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-gonzales-074b75180/) [![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=resume&logoColor=white)](https://www.mediafire.com/file/ynpoi93yv3murej/BryanGonzales-Resume%2528CV%2529.docx/file)
 
 
 ## 💻 Tech Stack:
