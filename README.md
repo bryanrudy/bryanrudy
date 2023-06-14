@@ -4,6 +4,7 @@
 
 ## 🌐 Socials & Resume(CV):
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-gonzales-074b75180/) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:Bryanrudy@outlook.com) [![Resume](https://img.shields.io/badge/Resume(CV)-%2312100E.svg?logo=resume&logoColor=white)](https://www.mediafire.com/file/ynpoi93yv3murej/BryanGonzales-Resume%2528CV%2529.docx/file) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%235C6BC0.svg?logo=wordpress&logoColor=white)](https://bryanrudy.wordpress.com/) 
 
 
 ## 💻 Tech Stack:
